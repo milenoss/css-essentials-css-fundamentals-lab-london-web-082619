@@ -41,8 +41,9 @@ p #featured-property{
   width: 800px;
   }
   
-  #details{
+  div #details{
     display:block;
-  }
+    float: left;
+    }
 
   
