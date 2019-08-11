@@ -45,6 +45,8 @@ p #featured-property{
     display:block;
     float: left;
     text-align: center
+    background-color: white
+    
     }
   div {
     text-align: center
